@@ -9,7 +9,7 @@
 
 4.Every statement 
 
-![image](https://user-images.githubusercontent.com/100873282/171465125-485b6f2c-6dc8-46c7-96a5-05956ac0d896.png)
+![image](https://user-images.githubusercontent.com/100873282/171465957-151d0c9f-a63e-40a4-aeea-8c9f68e03e0c.png)
 
 
 5.Every branch
