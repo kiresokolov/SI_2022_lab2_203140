@@ -7,7 +7,7 @@
 
 (Број на ребра- број на јазли)+2=27-20+2
 
-4.Every statement 
+4.Every statement (Со 1 се означени случаите кајшто влага кодот)
 
 ![image](https://user-images.githubusercontent.com/100873282/171461071-9eac20aa-28d8-40a3-8e89-1745b12cc05c.png)
 
